@@ -463,7 +463,7 @@ int32_t main(void)
 
     printf("\n\nCPU @ %luHz\n", SystemCoreClock);
 
-    printf("\n\nch UART Sample Program\n");
+    printf("\n\nqqqh UART Sample Program\n");
 
     /* UART sample function */
     UART_FunctionTest();
