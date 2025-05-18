@@ -1,0 +1,1568 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_udivsi3.o)
+                              ../Library/Device/Nuvoton/NUC131/Source/system_NUC131.o (__aeabi_uidiv)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_divsi3.o)
+                              ../Library/StdDriver/src/clk.o (__aeabi_idiv)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_dvmd_tls.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-exit.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/crt0.o (exit)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-exit.o) (_global_impure_ptr)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-init.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/crt0.o (__libc_init_array)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy-stub.o)
+                              main.o (memcpy)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/crt0.o (memset)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-printf.o)
+                              main.o (printf)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfprintf.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-printf.o) (_vfprintf_r)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-wsetup.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfprintf.o) (__swsetup_r)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-__call_atexit.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-exit.o) (__call_exitprocs)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-atexit.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-__call_atexit.o) (atexit)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfprintf.o) (_dtoa_r)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfprintf.o) (_fflush_r)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfprintf.o) (__sinit)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fini.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfprintf.o) (_free_r)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o) (_fwalk)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-localeconv.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfprintf.o) (_localeconv_r)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lock.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfprintf.o) (__retarget_lock_init_recursive)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-makebuf.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-wsetup.o) (__smakebuf_r)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfprintf.o) (_malloc_r)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr-stub.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfprintf.o) (memchr)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o) (__malloc_lock)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o) (_Balloc)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-s_frexp.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfprintf.o) (frexp)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o) (_sbrk_r)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o) (__sread)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen-stub.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfprintf.o) (strlen)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-strncpy.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfprintf.o) (strncpy)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfiprintf.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfprintf.o) (__sprint_r)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o) (_write_r)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-__atexit.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-atexit.o) (__register_exitproc)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-assert.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o) (__assert_func)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o) (_calloc_r)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o) (_close_r)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o) (_fclose_r)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fiprintf.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-assert.o) (fiprintf)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fputwc.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfiprintf.o) (_fputwc_r)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fstatr.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-makebuf.o) (_fstat_r)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfiprintf.o) (__sfvwrite_r)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-isattyr.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-makebuf.o) (_isatty_r)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fputwc.o) (__locale_mb_cur_max)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o) (_lseek_r)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mbtowc_r.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o) (__ascii_mbtowc)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o) (memmove)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o) (_read_r)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o) (_realloc_r)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o) (errno)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o) (strcmp)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-wbuf.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fputwc.o) (__swbuf_r)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-wcrtomb.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fputwc.o) (_wcrtomb_r)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-wctomb_r.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o) (__ascii_wctomb)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-abort.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-assert.o) (abort)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-ctype_.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o) (_ctype_)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-signal.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-abort.o) (raise)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-signalr.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-signal.o) (_kill_r)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_arm_muldf3.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfprintf.o) (__aeabi_dmul)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_arm_addsubdf3.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfprintf.o) (__aeabi_dsub)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_arm_muldivdf3.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o) (__aeabi_ddiv)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_arm_cmpdf2.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfprintf.o) (__aeabi_dcmpeq)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_arm_unorddf2.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfprintf.o) (__aeabi_dcmpun)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_arm_fixdfsi.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfprintf.o) (__aeabi_d2iz)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_aeabi_uldivmod.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfprintf.o) (__aeabi_uldivmod)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_udivmoddi4.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_clzdi2.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_udivmoddi4.o) (__clzdi2)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_clzsi2.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_clzdi2.o) (__clzsi2)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(close.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o) (_close)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(fstat.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fstatr.o) (_fstat)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(getpid.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-signalr.o) (_getpid)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(isatty.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-isattyr.o) (_isatty)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(kill.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-signalr.o) (_kill)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(lseek.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o) (_lseek)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(sbrk.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o) (_sbrk)
+/home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(_exit.o)
+                              /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-exit.o) (_exit)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/crti.o
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/crti.o
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/crti.o
+ .data          0x0000000000000000        0x4 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/crtbegin.o
+ .rodata        0x0000000000000000       0x24 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/crtbegin.o
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/crt0.o
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/crt0.o
+ .text          0x0000000000000000        0x0 main.o
+ .data          0x0000000000000000        0x0 main.o
+ .bss           0x0000000000000000        0x0 main.o
+ .text.calc_crc
+                0x0000000000000000       0x20 main.o
+ .text.uart3_send_fast
+                0x0000000000000000       0x60 main.o
+ .text.uart3_process_packet
+                0x0000000000000000       0x28 main.o
+ .text.InitInterruptPins
+                0x0000000000000000       0x38 main.o
+ .bss           0x0000000000000000        0x0 ../Library/Device/Nuvoton/NUC131/Source/system_NUC131.o
+ .data          0x0000000000000000        0x0 /tmp/ccMdOVS5.o
+ .bss           0x0000000000000000        0x0 /tmp/ccMdOVS5.o
+ .data          0x0000000000000000        0x0 ../Library/StdDriver/src/clk.o
+ .bss           0x0000000000000000        0x0 ../Library/StdDriver/src/clk.o
+ .data          0x0000000000000000        0x0 ../Library/StdDriver/src/uart.o
+ .bss           0x0000000000000000        0x0 ../Library/StdDriver/src/uart.o
+ .data          0x0000000000000000        0x0 ../Library/StdDriver/src/sys.o
+ .bss           0x0000000000000000        0x0 ../Library/StdDriver/src/sys.o
+ .data          0x0000000000000000        0x0 ../Library/StdDriver/src/gpio.o
+ .bss           0x0000000000000000        0x0 ../Library/StdDriver/src/gpio.o
+ .data          0x0000000000000000        0x0 ../Library/StdDriver/src/retarget.o
+ .bss           0x0000000000000000       0xd0 ../Library/StdDriver/src/retarget.o
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_udivsi3.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_udivsi3.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_divsi3.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_divsi3.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_dvmd_tls.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy-stub.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy-stub.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy-stub.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-printf.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-printf.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-printf.o)
+ .text._printf_r
+                0x0000000000000000       0x30 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-printf.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfprintf.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfprintf.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfprintf.o)
+ .text.vfprintf
+                0x0000000000000000       0x2c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfprintf.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-wsetup.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-wsetup.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-wsetup.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-__call_atexit.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-__call_atexit.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-__call_atexit.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-atexit.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-atexit.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-atexit.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .text.fflush   0x0000000000000000       0xd0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .text.__fp_lock
+                0x0000000000000000       0x38 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .text.__fp_unlock
+                0x0000000000000000       0x38 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .text.__sfmoreglue
+                0x0000000000000000       0x50 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .text._cleanup
+                0x0000000000000000       0x24 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .text.__sfp    0x0000000000000000      0x138 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .text.__sinit_lock_acquire
+                0x0000000000000000       0x18 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .text.__sinit_lock_release
+                0x0000000000000000       0x18 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .text.__fp_lock_all
+                0x0000000000000000       0x30 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .text.__fp_unlock_all
+                0x0000000000000000       0x30 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fini.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fini.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fini.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .text._fwalk   0x0000000000000000       0x70 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-localeconv.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-localeconv.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-localeconv.o)
+ .text.__localeconv_l
+                0x0000000000000000        0x8 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-localeconv.o)
+ .text.localeconv
+                0x0000000000000000        0xc /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-localeconv.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lock.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lock.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x0000000000000000        0x4 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x0000000000000000        0x4 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x0000000000000000        0x4 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x0000000000000000        0x8 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x0000000000000000        0x8 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x0000000000000000        0x4 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x0000000000000000        0x1 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x0000000000000000        0x1 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x0000000000000000        0x1 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x0000000000000000        0x1 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x0000000000000000        0x1 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lock.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-makebuf.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-makebuf.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-makebuf.o)
+ .text.__swhatbuf_r
+                0x0000000000000000       0xa0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-makebuf.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr-stub.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr-stub.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr-stub.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+ .text.__s2b    0x0000000000000000      0x114 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+ .text.__ulp    0x0000000000000000       0x64 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+ .text.__b2d    0x0000000000000000       0xf0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+ .text.__ratio  0x0000000000000000       0x84 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+ .text._mprec_log10
+                0x0000000000000000       0x5c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+ .text.__copybits
+                0x0000000000000000       0x8c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+ .text.__any_on
+                0x0000000000000000       0x64 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+ .rodata.__mprec_tinytens
+                0x0000000000000000       0x28 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-s_frexp.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-s_frexp.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-s_frexp.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .text.__seofread
+                0x0000000000000000        0x8 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen-stub.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen-stub.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen-stub.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-strncpy.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-strncpy.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-strncpy.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfiprintf.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfiprintf.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfiprintf.o)
+ .text.vfiprintf
+                0x0000000000000000       0x2c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfiprintf.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-__atexit.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-__atexit.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-__atexit.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-assert.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-assert.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-assert.o)
+ .text.__assert
+                0x0000000000000000       0x10 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-assert.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .text.fclose   0x0000000000000000       0x14 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fiprintf.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fiprintf.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fiprintf.o)
+ .text._fiprintf_r
+                0x0000000000000000       0x2c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fiprintf.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fputwc.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fputwc.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fputwc.o)
+ .text.fputwc   0x0000000000000000       0xd4 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fputwc.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fstatr.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fstatr.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fstatr.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-isattyr.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-isattyr.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-isattyr.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+ .text._setlocale_r
+                0x0000000000000000       0x68 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+ .text.setlocale
+                0x0000000000000000       0x68 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+ .bss._PathLocale
+                0x0000000000000000        0x4 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mbtowc_r.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mbtowc_r.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mbtowc_r.o)
+ .text._mbtowc_r
+                0x0000000000000000       0x1c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mbtowc_r.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x0000000000000000       0x74 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x0000000000000000      0x104 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .text          0x0000000000000000      0x224 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+ .debug_frame   0x0000000000000000       0x40 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x0000000000000000       0x1a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-wbuf.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-wbuf.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-wbuf.o)
+ .text.__swbuf  0x0000000000000000       0x1c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-wbuf.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-wcrtomb.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-wcrtomb.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-wcrtomb.o)
+ .text.wcrtomb  0x0000000000000000       0x88 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-wcrtomb.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-wctomb_r.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-wctomb_r.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-wctomb_r.o)
+ .text._wctomb_r
+                0x0000000000000000       0x1c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-wctomb_r.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-abort.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-abort.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-abort.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-ctype_.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-ctype_.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-ctype_.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-signal.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-signal.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-signal.o)
+ .text._init_signal_r
+                0x0000000000000000       0x54 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-signal.o)
+ .text._signal_r
+                0x0000000000000000       0x7c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-signal.o)
+ .text._raise_r
+                0x0000000000000000       0x98 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-signal.o)
+ .text.__sigtramp_r
+                0x0000000000000000       0xb4 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-signal.o)
+ .text.signal   0x0000000000000000       0x88 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-signal.o)
+ .text._init_signal
+                0x0000000000000000       0x60 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-signal.o)
+ .text.__sigtramp
+                0x0000000000000000       0xb8 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-signal.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-signalr.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-signalr.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-signalr.o)
+ .text          0x0000000000000000      0x290 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_arm_muldf3.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_arm_muldf3.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_arm_muldf3.o)
+ .debug_frame   0x0000000000000000       0x30 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_arm_muldf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x1c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_arm_muldf3.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_arm_addsubdf3.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_arm_muldivdf3.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_arm_muldivdf3.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_arm_cmpdf2.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_arm_cmpdf2.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_arm_unorddf2.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_arm_unorddf2.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_arm_fixdfsi.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_arm_fixdfsi.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_aeabi_uldivmod.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_udivmoddi4.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_udivmoddi4.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_clzdi2.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_clzdi2.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_clzsi2.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_clzsi2.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/crtend.o
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/crtend.o
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/crtend.o
+ .rodata        0x0000000000000000       0x24 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/crtend.o
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/crtn.o
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/crtn.o
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/crtn.o
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(close.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(close.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(close.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(fstat.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(fstat.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(fstat.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(getpid.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(getpid.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(getpid.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(isatty.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(isatty.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(isatty.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(kill.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(kill.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(kill.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(lseek.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(lseek.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(lseek.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(sbrk.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(sbrk.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(sbrk.o)
+ .text          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(_exit.o)
+ .data          0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(_exit.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000000000000 0x0000000000011000 xr
+RAM              0x0000000020000000 0x0000000000002000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/crti.o
+LOAD /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/crtbegin.o
+LOAD /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/crt0.o
+LOAD /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a
+LOAD main.o
+LOAD ../Library/Device/Nuvoton/NUC131/Source/system_NUC131.o
+LOAD /tmp/ccMdOVS5.o
+LOAD ../Library/StdDriver/src/clk.o
+LOAD ../Library/StdDriver/src/uart.o
+LOAD ../Library/StdDriver/src/sys.o
+LOAD ../Library/StdDriver/src/gpio.o
+LOAD ../Library/StdDriver/src/retarget.o
+START GROUP
+LOAD /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a
+LOAD /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a
+END GROUP
+LOAD /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/crtend.o
+LOAD /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/crtn.o
+START GROUP
+LOAD /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a
+LOAD /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a
+LOAD /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libm.a
+LOAD /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a
+END GROUP
+
+.text           0x0000000000000000     0xc354
+ *(.vectors)
+ .vectors       0x0000000000000000       0xc0 /tmp/ccMdOVS5.o
+                0x0000000000000000                __Vectors
+                0x00000000000000c0                __Vectors_End = .
+                0x00000000000000c0                __Vectors_Size = (__Vectors_End - __Vectors)
+                0x0000000020000f40                __end__ = .
+ *(.text*)
+ .text          0x00000000000000c0       0x70 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/crtbegin.o
+ .text          0x0000000000000130      0x138 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/crt0.o
+                0x0000000000000130                _stack_init
+                0x00000000000001b8                _mainCRTStartup
+                0x00000000000001b8                _start
+ .text.COIN0_proces
+                0x0000000000000268       0x10 main.o
+                0x0000000000000268                COIN0_proces
+ .text.BLOCK0_proces
+                0x0000000000000278       0x10 main.o
+                0x0000000000000278                BLOCK0_proces
+ .text.COIN1_proces
+                0x0000000000000288       0x10 main.o
+                0x0000000000000288                COIN1_proces
+ .text.COIN2_proces
+                0x0000000000000298       0x10 main.o
+                0x0000000000000298                COIN2_proces
+ .text.PRIZE0_proces
+                0x00000000000002a8       0x10 main.o
+                0x00000000000002a8                PRIZE0_proces
+ .text.BLOCK1_proces
+                0x00000000000002b8       0x10 main.o
+                0x00000000000002b8                BLOCK1_proces
+ .text.PRIZE1_proces
+                0x00000000000002c8       0x10 main.o
+                0x00000000000002c8                PRIZE1_proces
+ .text.BLOCK2_proces
+                0x00000000000002d8       0x10 main.o
+                0x00000000000002d8                BLOCK2_proces
+ .text.PRIZE2_proces
+                0x00000000000002e8       0x10 main.o
+                0x00000000000002e8                PRIZE2_proces
+ .text.UART3_IRQHandler
+                0x00000000000002f8       0xec main.o
+                0x00000000000002f8                UART3_IRQHandler
+ .text.SYS_Init
+                0x00000000000003e4       0x7c main.o
+                0x00000000000003e4                SYS_Init
+ .text.GPAB_IRQHandler
+                0x0000000000000460       0x6c main.o
+                0x0000000000000460                GPAB_IRQHandler
+ .text.GPCDEF_IRQHandler
+                0x00000000000004cc       0x68 main.o
+                0x00000000000004cc                GPCDEF_IRQHandler
+ .text.UART3_Init
+                0x0000000000000534       0x1c main.o
+                0x0000000000000534                UART3_Init
+ .text.UART0_Init
+                0x0000000000000550       0x1c main.o
+                0x0000000000000550                UART0_Init
+ .text.UART_TEST_HANDLE
+                0x000000000000056c      0x110 main.o
+                0x000000000000056c                UART_TEST_HANDLE
+ .text.UART02_IRQHandler
+                0x000000000000067c        0x8 main.o
+                0x000000000000067c                UART02_IRQHandler
+ .text.UART_FunctionTest
+                0x0000000000000684       0x88 main.o
+                0x0000000000000684                UART_FunctionTest
+ .text.startup.main
+                0x000000000000070c       0xb4 main.o
+                0x000000000000070c                main
+ .text          0x00000000000007c0       0xa4 ../Library/Device/Nuvoton/NUC131/Source/system_NUC131.o
+                0x00000000000007c0                SystemCoreClockUpdate
+                0x0000000000000860                SystemInit
+ .text          0x0000000000000864       0x48 /tmp/ccMdOVS5.o
+                0x0000000000000864                Reset_Handler
+                0x000000000000088c                HardFault_Handler
+                0x000000000000089c                ProcessHardFaultx
+                0x000000000000089e                BRAKE0_IRQHandler
+                0x000000000000089e                I2C0_IRQHandler
+                0x000000000000089e                SysTick_Handler
+                0x000000000000089e                PWM1_IRQHandler
+                0x000000000000089e                PendSV_Handler
+                0x000000000000089e                NMI_Handler
+                0x000000000000089e                I2C1_IRQHandler
+                0x000000000000089e                UART1_IRQHandler
+                0x000000000000089e                CAN1_IRQHandler
+                0x000000000000089e                CKD_IRQHandler
+                0x000000000000089e                BRAKE1_IRQHandler
+                0x000000000000089e                TMR0_IRQHandler
+                0x000000000000089e                RTC_IRQHandler
+                0x000000000000089e                PWRWU_IRQHandler
+                0x000000000000089e                UART5_IRQHandler
+                0x000000000000089e                BPWM1_IRQHandler
+                0x000000000000089e                EINT1_IRQHandler
+                0x000000000000089e                UART4_IRQHandler
+                0x000000000000089e                Default_Handler
+                0x000000000000089e                ADC_IRQHandler
+                0x000000000000089e                TMR2_IRQHandler
+                0x000000000000089e                BPWM0_IRQHandler
+                0x000000000000089e                BOD_IRQHandler
+                0x000000000000089e                WDT_IRQHandler
+                0x000000000000089e                SVC_Handler
+                0x000000000000089e                EINT0_IRQHandler
+                0x000000000000089e                PWM0_IRQHandler
+                0x000000000000089e                CAN0_IRQHandler
+                0x000000000000089e                TMR3_IRQHandler
+                0x000000000000089e                SPI0_IRQHandler
+                0x000000000000089e                TMR1_IRQHandler
+ .text          0x00000000000008ac      0x5f4 ../Library/StdDriver/src/clk.o
+                0x00000000000008ac                CLK_DisableCKO
+                0x00000000000008bc                CLK_EnableCKO
+                0x00000000000008e0                CLK_PowerDown
+                0x0000000000000904                CLK_Idle
+                0x0000000000000924                CLK_GetHXTFreq
+                0x0000000000000940                CLK_GetHCLKFreq
+                0x0000000000000950                CLK_GetPCLKFreq
+                0x0000000000000960                CLK_GetCPUFreq
+                0x0000000000000970                CLK_SetHCLK
+                0x00000000000009d4                CLK_SetModuleClock
+                0x0000000000000a44                CLK_SetSysTickClockSrc
+                0x0000000000000a58                CLK_EnableXtalRC
+                0x0000000000000a68                CLK_DisableXtalRC
+                0x0000000000000a78                CLK_EnableModuleClock
+                0x0000000000000ab4                CLK_DisableModuleClock
+                0x0000000000000af0                CLK_EnablePLL
+                0x0000000000000d70                CLK_SetCoreClock
+                0x0000000000000e10                CLK_DisablePLL
+                0x0000000000000e24                CLK_WaitClockReady
+                0x0000000000000e50                CLK_EnableSysTick
+                0x0000000000000e94                CLK_DisableSysTick
+ .text          0x0000000000000ea0      0x4f8 ../Library/StdDriver/src/uart.o
+                0x0000000000000ea0                UART_ClearIntFlag
+                0x0000000000000eec                UART_Close
+                0x0000000000000ef4                UART_DisableFlowCtrl
+                0x0000000000000f04                UART_DisableInt
+                0x0000000000000f7c                UART_EnableFlowCtrl
+                0x0000000000000f9c                UART_EnableInt
+                0x000000000000100c                UART_Open
+                0x00000000000010f8                UART_Read
+                0x0000000000001128                UART_SetLine_Config
+                0x0000000000001220                UART_SetTimeoutCnt
+                0x0000000000001238                UART_SelectIrDAMode
+                0x0000000000001330                UART_SelectRS485Mode
+                0x0000000000001350                UART_SelectLINMode
+                0x0000000000001368                UART_Write
+ .text          0x0000000000001398       0xac ../Library/StdDriver/src/sys.o
+                0x0000000000001398                SYS_ClearResetSrc
+                0x00000000000013a0                SYS_GetBODStatus
+                0x00000000000013ac                SYS_GetResetSrc
+                0x00000000000013b4                SYS_IsRegLocked
+                0x00000000000013c4                SYS_ReadPDID
+                0x00000000000013cc                SYS_ResetChip
+                0x00000000000013dc                SYS_ResetCPU
+                0x00000000000013ec                SYS_ResetModule
+                0x0000000000001410                SYS_EnableBOD
+                0x0000000000001434                SYS_DisableBOD
+ .text          0x0000000000001444       0x74 ../Library/StdDriver/src/gpio.o
+                0x0000000000001444                GPIO_SetMode
+                0x0000000000001470                GPIO_EnableInt
+                0x000000000000149c                GPIO_DisableInt
+ .text          0x00000000000014b8      0x150 ../Library/StdDriver/src/retarget.o
+                0x00000000000014b8                ProcessHardFault
+                0x00000000000014c8                SH_Return
+                0x00000000000014cc                SendChar_ToUART
+                0x00000000000014f8                SendChar
+                0x0000000000001524                GetChar
+                0x000000000000153c                kbhit
+                0x000000000000154c                IsDebugFifoEmpty
+                0x000000000000155c                _ttywrch
+                0x0000000000001588                fputc
+                0x00000000000015b4                _write
+                0x00000000000015f0                _read
+ .text          0x0000000000001608      0x114 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_udivsi3.o)
+                0x0000000000001608                __udivsi3
+                0x0000000000001608                __aeabi_uidiv
+                0x00000000000016fc                __aeabi_uidivmod
+ .text          0x000000000000171c      0x148 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_divsi3.o)
+                0x000000000000171c                __aeabi_idiv
+                0x000000000000171c                __divsi3
+                0x0000000000001844                __aeabi_idivmod
+ .text          0x0000000000001864        0x4 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_dvmd_tls.o)
+                0x0000000000001864                __aeabi_ldiv0
+                0x0000000000001864                __aeabi_idiv0
+ .text.exit     0x0000000000001868       0x34 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-exit.o)
+                0x0000000000001868                exit
+ .text.__libc_init_array
+                0x000000000000189c       0x88 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-init.o)
+                0x000000000000189c                __libc_init_array
+ .text.memcpy   0x0000000000001924      0x120 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy-stub.o)
+                0x0000000000001924                memcpy
+ .text.memset   0x0000000000001a44      0x11c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+                0x0000000000001a44                memset
+ .text.printf   0x0000000000001b60       0x3c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-printf.o)
+                0x0000000000001b60                printf
+ .text._vfprintf_r
+                0x0000000000001b9c     0x290c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfprintf.o)
+                0x0000000000001b9c                _vfprintf_r
+ .text.__sbprintf
+                0x00000000000044a8       0xd4 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfprintf.o)
+ .text.__swsetup_r
+                0x000000000000457c      0x16c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-wsetup.o)
+                0x000000000000457c                __swsetup_r
+ .text.startup.register_fini
+                0x00000000000046e8       0x28 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x0000000000004710      0x138 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-__call_atexit.o)
+                0x0000000000004710                __call_exitprocs
+ .text.atexit   0x0000000000004848       0x20 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-atexit.o)
+                0x0000000000004848                atexit
+ .text.quorem   0x0000000000004868      0x1c0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+ .text._dtoa_r  0x0000000000004a28     0x172c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+                0x0000000000004a28                _dtoa_r
+ .text.__sflush_r
+                0x0000000000006154      0x244 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+                0x0000000000006154                __sflush_r
+ .text._fflush_r
+                0x0000000000006398       0x9c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+                0x0000000000006398                _fflush_r
+ .text._cleanup_r
+                0x0000000000006434       0x18 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x0000000000006434                _cleanup_r
+ .text.__sinit  0x000000000000644c      0x18c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x000000000000644c                __sinit
+ .text.__sfp_lock_acquire
+                0x00000000000065d8       0x18 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x00000000000065d8                __sfp_lock_acquire
+ .text.__sfp_lock_release
+                0x00000000000065f0       0x18 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x00000000000065f0                __sfp_lock_release
+ .text.__libc_fini_array
+                0x0000000000006608       0x44 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fini.o)
+                0x0000000000006608                __libc_fini_array
+ .text._malloc_trim_r
+                0x000000000000664c      0x100 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+                0x000000000000664c                _malloc_trim_r
+ .text._free_r  0x000000000000674c      0x2ec /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+                0x000000000000674c                _free_r
+ .text._fwalk_reent
+                0x0000000000006a38       0x78 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+                0x0000000000006a38                _fwalk_reent
+ .text._localeconv_r
+                0x0000000000006ab0        0xc /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-localeconv.o)
+                0x0000000000006ab0                _localeconv_r
+ .text.__retarget_lock_init_recursive
+                0x0000000000006abc        0x4 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lock.o)
+                0x0000000000006abc                __retarget_lock_init_recursive
+ .text.__retarget_lock_close_recursive
+                0x0000000000006ac0        0x4 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lock.o)
+                0x0000000000006ac0                __retarget_lock_close_recursive
+ .text.__retarget_lock_acquire_recursive
+                0x0000000000006ac4        0x4 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lock.o)
+                0x0000000000006ac4                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x0000000000006ac8        0x4 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lock.o)
+                0x0000000000006ac8                __retarget_lock_release_recursive
+ .text.__smakebuf_r
+                0x0000000000006acc      0x144 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-makebuf.o)
+                0x0000000000006acc                __smakebuf_r
+ .text._malloc_r
+                0x0000000000006c10      0x810 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x0000000000006c10                _malloc_r
+ .text.memchr   0x0000000000007420       0xf0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr-stub.o)
+                0x0000000000007420                memchr
+ .text.__malloc_lock
+                0x0000000000007510       0x18 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+                0x0000000000007510                __malloc_lock
+ .text.__malloc_unlock
+                0x0000000000007528       0x18 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+                0x0000000000007528                __malloc_unlock
+ .text._Balloc  0x0000000000007540       0x8c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x0000000000007540                _Balloc
+ .text._Bfree   0x00000000000075cc       0x1c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x00000000000075cc                _Bfree
+ .text.__multadd
+                0x00000000000075e8      0x100 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x00000000000075e8                __multadd
+ .text.__hi0bits
+                0x00000000000076e8       0x58 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x00000000000076e8                __hi0bits
+ .text.__lo0bits
+                0x0000000000007740       0x9c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x0000000000007740                __lo0bits
+ .text.__i2b    0x00000000000077dc       0xa8 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x00000000000077dc                __i2b
+ .text.__multiply
+                0x0000000000007884      0x214 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x0000000000007884                __multiply
+ .text.__pow5mult
+                0x0000000000007a98      0x124 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x0000000000007a98                __pow5mult
+ .text.__lshift
+                0x0000000000007bbc      0x140 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x0000000000007bbc                __lshift
+ .text.__mcmp   0x0000000000007cfc       0x60 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x0000000000007cfc                __mcmp
+ .text.__mdiff  0x0000000000007d5c      0x1f4 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x0000000000007d5c                __mdiff
+ .text.__d2b    0x0000000000007f50      0x144 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x0000000000007f50                __d2b
+ .text.frexp    0x0000000000008094       0xa4 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-s_frexp.o)
+                0x0000000000008094                frexp
+ .text._sbrk_r  0x0000000000008138       0x44 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+                0x0000000000008138                _sbrk_r
+ .text.__sread  0x000000000000817c       0x34 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+                0x000000000000817c                __sread
+ .text.__swrite
+                0x00000000000081b0       0x5c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+                0x00000000000081b0                __swrite
+ .text.__sseek  0x000000000000820c       0x30 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+                0x000000000000820c                __sseek
+ .text.__sclose
+                0x000000000000823c       0x14 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+                0x000000000000823c                __sclose
+ .text.strlen   0x0000000000008250       0x60 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen-stub.o)
+                0x0000000000008250                strlen
+ .text.strncpy  0x00000000000082b0       0xcc /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-strncpy.o)
+                0x00000000000082b0                strncpy
+ .text.__sprint_r.part.0
+                0x000000000000837c       0xac /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfiprintf.o)
+ .text.__sprint_r
+                0x0000000000008428       0x18 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfiprintf.o)
+                0x0000000000008428                __sprint_r
+ .text._vfiprintf_r
+                0x0000000000008440     0x1408 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfiprintf.o)
+                0x0000000000008440                _vfiprintf_r
+ .text.__sbprintf
+                0x0000000000009848       0xd4 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfiprintf.o)
+ .text._write_r
+                0x000000000000991c       0x48 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+                0x000000000000991c                _write_r
+ .text.__register_exitproc
+                0x0000000000009964       0xbc /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-__atexit.o)
+                0x0000000000009964                __register_exitproc
+ .text.__assert_func
+                0x0000000000009a20       0x5c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-assert.o)
+                0x0000000000009a20                __assert_func
+ .text._calloc_r
+                0x0000000000009a7c       0x9c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+                0x0000000000009a7c                _calloc_r
+ .text._close_r
+                0x0000000000009b18       0x3c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+                0x0000000000009b18                _close_r
+ .text._fclose_r
+                0x0000000000009b54      0x16c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+                0x0000000000009b54                _fclose_r
+ .text.fiprintf
+                0x0000000000009cc0       0x3c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fiprintf.o)
+                0x0000000000009cc0                fiprintf
+ .text.__fputwc
+                0x0000000000009cfc      0x114 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fputwc.o)
+                0x0000000000009cfc                __fputwc
+ .text._fputwc_r
+                0x0000000000009e10       0xbc /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fputwc.o)
+                0x0000000000009e10                _fputwc_r
+ .text._fstat_r
+                0x0000000000009ecc       0x40 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fstatr.o)
+                0x0000000000009ecc                _fstat_r
+ .text.__sfvwrite_r
+                0x0000000000009f0c      0x4c4 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o)
+                0x0000000000009f0c                __sfvwrite_r
+ .text._isatty_r
+                0x000000000000a3d0       0x3c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-isattyr.o)
+                0x000000000000a3d0                _isatty_r
+ .text.__locale_mb_cur_max
+                0x000000000000a40c       0x10 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                0x000000000000a40c                __locale_mb_cur_max
+ .text._lseek_r
+                0x000000000000a41c       0x48 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+                0x000000000000a41c                _lseek_r
+ .text.__ascii_mbtowc
+                0x000000000000a464       0x44 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mbtowc_r.o)
+                0x000000000000a464                __ascii_mbtowc
+ .text.memmove  0x000000000000a4a8      0x158 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+                0x000000000000a4a8                memmove
+ .text._read_r  0x000000000000a600       0x48 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+                0x000000000000a600                _read_r
+ .text._realloc_r
+                0x000000000000a648      0x594 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+                0x000000000000a648                _realloc_r
+ .text.__swbuf_r
+                0x000000000000abdc      0x134 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-wbuf.o)
+                0x000000000000abdc                __swbuf_r
+ .text._wcrtomb_r
+                0x000000000000ad10       0x58 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-wcrtomb.o)
+                0x000000000000ad10                _wcrtomb_r
+ .text.__ascii_wctomb
+                0x000000000000ad68       0x30 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-wctomb_r.o)
+                0x000000000000ad68                __ascii_wctomb
+ .text.abort    0x000000000000ad98       0x14 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-abort.o)
+                0x000000000000ad98                abort
+ .text.raise    0x000000000000adac       0x9c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-signal.o)
+                0x000000000000adac                raise
+ .text._kill_r  0x000000000000ae48       0x40 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-signalr.o)
+                0x000000000000ae48                _kill_r
+ .text._getpid_r
+                0x000000000000ae88       0x10 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-signalr.o)
+                0x000000000000ae88                _getpid_r
+ .text          0x000000000000ae98      0x424 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_arm_addsubdf3.o)
+                0x000000000000ae98                __aeabi_drsub
+                0x000000000000aea0                __aeabi_dsub
+                0x000000000000aea0                __subdf3
+                0x000000000000aea4                __adddf3
+                0x000000000000aea4                __aeabi_dadd
+                0x000000000000b1b4                __aeabi_ui2d
+                0x000000000000b1b4                __floatunsidf
+                0x000000000000b1d8                __floatsidf
+                0x000000000000b1d8                __aeabi_i2d
+                0x000000000000b200                __extendsfdf2
+                0x000000000000b200                __aeabi_f2d
+                0x000000000000b248                __aeabi_ul2d
+                0x000000000000b248                __floatundidf
+                0x000000000000b25c                __floatdidf
+                0x000000000000b25c                __aeabi_l2d
+ .text          0x000000000000b2bc      0x49c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_arm_muldivdf3.o)
+                0x000000000000b2bc                __aeabi_dmul
+                0x000000000000b2bc                __muldf3
+                0x000000000000b54c                __aeabi_ddiv
+                0x000000000000b54c                __divdf3
+ .text          0x000000000000b758      0x144 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_arm_cmpdf2.o)
+                0x000000000000b758                __gtdf2
+                0x000000000000b758                __gedf2
+                0x000000000000b760                __ltdf2
+                0x000000000000b760                __ledf2
+                0x000000000000b768                __cmpdf2
+                0x000000000000b768                __eqdf2
+                0x000000000000b768                __nedf2
+                0x000000000000b7f0                __aeabi_cdrcmple
+                0x000000000000b80c                __aeabi_cdcmple
+                0x000000000000b80c                __aeabi_cdcmpeq
+                0x000000000000b824                __aeabi_dcmpeq
+                0x000000000000b83c                __aeabi_dcmplt
+                0x000000000000b854                __aeabi_dcmple
+                0x000000000000b86c                __aeabi_dcmpge
+                0x000000000000b884                __aeabi_dcmpgt
+ .text          0x000000000000b89c       0x38 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_arm_unorddf2.o)
+                0x000000000000b89c                __aeabi_dcmpun
+                0x000000000000b89c                __unorddf2
+ .text          0x000000000000b8d4       0x5c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_arm_fixdfsi.o)
+                0x000000000000b8d4                __fixdfsi
+                0x000000000000b8d4                __aeabi_d2iz
+ .text          0x000000000000b930       0x3c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_aeabi_uldivmod.o)
+                0x000000000000b930                __aeabi_uldivmod
+ .text          0x000000000000b96c      0x128 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_udivmoddi4.o)
+                0x000000000000b96c                __udivmoddi4
+ .text          0x000000000000ba94       0x28 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_clzdi2.o)
+                0x000000000000ba94                __clzdi2
+ .text          0x000000000000babc       0x48 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_clzsi2.o)
+                0x000000000000babc                __clzsi2
+ .text._close   0x000000000000bb04       0x18 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(close.o)
+                0x000000000000bb04                _close
+ .text._fstat   0x000000000000bb1c       0x18 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(fstat.o)
+                0x000000000000bb1c                _fstat
+ .text._getpid  0x000000000000bb34       0x18 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(getpid.o)
+                0x000000000000bb34                _getpid
+ .text._isatty  0x000000000000bb4c       0x18 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(isatty.o)
+                0x000000000000bb4c                _isatty
+ .text._kill    0x000000000000bb64       0x18 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(kill.o)
+                0x000000000000bb64                _kill
+ .text._lseek   0x000000000000bb7c       0x18 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(lseek.o)
+                0x000000000000bb7c                _lseek
+ .text._sbrk    0x000000000000bb94       0x2c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(sbrk.o)
+                0x000000000000bb94                _sbrk
+ .text._exit    0x000000000000bbc0        0x4 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(_exit.o)
+                0x000000000000bbc0                _exit
+ *(.init)
+ .init          0x000000000000bbc4        0xc /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/crti.o
+                0x000000000000bbc4                _init
+ .init          0x000000000000bbd0        0xc /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/crtn.o
+ *(.fini)
+ .fini          0x000000000000bbdc        0xc /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/crti.o
+                0x000000000000bbdc                _fini
+ .fini          0x000000000000bbe8        0xc /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/crtn.o
+ *fill*         0x000000000000bbf4        0x4 
+ .fini.__stub   0x000000000000bbf8       0x24 linker stubs
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata.COIN0_proces.str1.4
+                0x000000000000bc28       0x18 main.o
+ .rodata.BLOCK0_proces.str1.4
+                0x000000000000bc40       0x18 main.o
+ .rodata.uart3_process_packet.str1.4
+                0x000000000000bc58       0x3f main.o
+ *fill*         0x000000000000bc97        0x1 
+ .rodata.UART3_IRQHandler.str1.4
+                0x000000000000bc98       0x12 main.o
+ *fill*         0x000000000000bcaa        0x2 
+ .rodata.UART3_IRQHandler
+                0x000000000000bcac       0x14 main.o
+ .rodata.GPAB_IRQHandler.str1.4
+                0x000000000000bcc0       0x35 main.o
+ *fill*         0x000000000000bcf5        0x3 
+ .rodata.UART_TEST_HANDLE.str1.4
+                0x000000000000bcf8       0x20 main.o
+ .rodata.UART_FunctionTest.str1.4
+                0x000000000000bd18      0x158 main.o
+ .rodata.main.str1.4
+                0x000000000000be70       0x59 main.o
+ *fill*         0x000000000000bec9        0x3 
+ .rodata.str1.4
+                0x000000000000becc       0x46 main.o
+ *fill*         0x000000000000bf12        0x2 
+ .rodata        0x000000000000bf14       0x20 ../Library/StdDriver/src/clk.o
+ .rodata        0x000000000000bf34       0x10 ../Library/StdDriver/src/uart.o
+ .rodata.str1.4
+                0x000000000000bf44        0xf ../Library/StdDriver/src/retarget.o
+ *fill*         0x000000000000bf53        0x1 
+ .rodata._global_impure_ptr
+                0x000000000000bf54        0x4 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+                0x000000000000bf54                _global_impure_ptr
+ .rodata._vfprintf_r.str1.4
+                0x000000000000bf58       0x42 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfprintf.o)
+ *fill*         0x000000000000bf9a        0x2 
+ .rodata.blanks.1
+                0x000000000000bf9c       0x10 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfprintf.o)
+ .rodata.zeroes.0
+                0x000000000000bfac       0x10 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfprintf.o)
+ .rodata._dtoa_r.str1.4
+                0x000000000000bfbc       0xa1 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+                                         0xa5 (size before relaxing)
+ *fill*         0x000000000000c05d        0x3 
+ .rodata.__multadd.str1.4
+                0x000000000000c060       0x7e /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                                         0x92 (size before relaxing)
+ *fill*         0x000000000000c0de        0x2 
+ .rodata.__mprec_bigtens
+                0x000000000000c0e0       0x28 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x000000000000c0e0                __mprec_bigtens
+ .rodata.__mprec_tens
+                0x000000000000c108       0xc8 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x000000000000c108                __mprec_tens
+ .rodata.p05.0  0x000000000000c1d0        0xc /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+ .rodata._vfiprintf_r.str1.4
+                0x000000000000c1dc       0x2f /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfiprintf.o)
+ .rodata.blanks.1
+                0x000000000000c1dc       0x10 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfiprintf.o)
+ .rodata.zeroes.0
+                0x000000000000c1ec       0x10 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfiprintf.o)
+ .rodata.__assert_func.str1.4
+                0x000000000000c1fc       0x3f /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-assert.o)
+                                         0x43 (size before relaxing)
+ *fill*         0x000000000000c23b        0x1 
+ .rodata._setlocale_r.str1.4
+                0x000000000000c23c        0xa /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                                          0xd (size before relaxing)
+ *fill*         0x000000000000c246        0x2 
+ .rodata.str1.4
+                0x000000000000c248        0x2 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+ *fill*         0x000000000000c24a        0x2 
+ .rodata._ctype_
+                0x000000000000c24c      0x101 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-ctype_.o)
+                0x000000000000c24c                _ctype_
+ *(.eh_frame*)
+ *fill*         0x000000000000c34d        0x3 
+ .eh_frame      0x000000000000c350        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/crtbegin.o
+ .eh_frame      0x000000000000c350        0x4 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/crtend.o
+
+.glue_7         0x000000000000c354        0x0
+ .glue_7        0x000000000000c354        0x0 linker stubs
+
+.glue_7t        0x000000000000c354        0x0
+ .glue_7t       0x000000000000c354        0x0 linker stubs
+
+.vfp11_veneer   0x000000000000c354        0x0
+ .vfp11_veneer  0x000000000000c354        0x0 linker stubs
+
+.v4_bx          0x000000000000c354        0x0
+ .v4_bx         0x000000000000c354        0x0 linker stubs
+
+.iplt           0x000000000000c354        0x0
+ .iplt          0x000000000000c354        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x000000000000c354                __exidx_start = .
+
+.ARM.exidx      0x000000000000c354        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x000000000000c354        0x8 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/crt0.o
+                                         0x10 (size before relaxing)
+ .ARM.exidx     0x000000000000c35c        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_udivmoddi4.o)
+                                          0x8 (size before relaxing)
+                0x000000000000c35c                __exidx_end = .
+                0x000000000000c35c                __etext = .
+
+.rel.dyn        0x000000000000c35c        0x0
+ .rel.iplt      0x000000000000c35c        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/crtbegin.o
+
+.data           0x0000000020000000      0xa7c load address 0x000000000000c35c
+                0x0000000020000000                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data.g_bWait  0x0000000020000000        0x4 main.o
+                0x0000000020000000                g_bWait
+ .data.interruptPins
+                0x0000000020000004       0x90 main.o
+                0x0000000020000004                interruptPins
+ .data          0x0000000020000094       0x2c ../Library/Device/Nuvoton/NUC131/Source/system_NUC131.o
+                0x0000000020000094                PllClock
+                0x0000000020000098                gau32ClkSrcTbl
+                0x00000000200000b8                SystemCoreClock
+                0x00000000200000bc                CyclesPerUs
+ .data._impure_ptr
+                0x00000000200000c0        0x4 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+                0x00000000200000c0                _impure_ptr
+ *fill*         0x00000000200000c4        0x4 
+ .data.impure_data
+                0x00000000200000c8      0x428 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x00000000200004f0        0x4 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-__call_atexit.o)
+                0x00000000200004f0                __atexit_recursive_mutex
+ .data.__malloc_av_
+                0x00000000200004f4      0x408 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x00000000200004f4                __malloc_av_
+ .data.__malloc_sbrk_base
+                0x00000000200008fc        0x4 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x00000000200008fc                __malloc_sbrk_base
+ .data.__malloc_trim_threshold
+                0x0000000020000900        0x4 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x0000000020000900                __malloc_trim_threshold
+ .data.__global_locale
+                0x0000000020000904      0x16c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                0x0000000020000904                __global_locale
+                0x0000000020000a70                . = ALIGN (0x4)
+                0x0000000020000a70                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                0x0000000020000a70                PROVIDE (__preinit_array_end = .)
+                0x0000000020000a70                . = ALIGN (0x4)
+                0x0000000020000a70                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x0000000020000a70        0x4 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-__call_atexit.o)
+ *(.init_array)
+ .init_array    0x0000000020000a74        0x4 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/crtbegin.o
+                0x0000000020000a78                PROVIDE (__init_array_end = .)
+                0x0000000020000a78                . = ALIGN (0x4)
+                0x0000000020000a78                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x0000000020000a78        0x4 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/crtbegin.o
+                0x0000000020000a7c                PROVIDE (__fini_array_end = .)
+ *(.jcr*)
+                0x0000000020000a7c                . = ALIGN (0x4)
+                0x0000000020000a7c                __data_end__ = .
+
+.igot.plt       0x0000000020000a7c        0x0 load address 0x000000000000cdd8
+ .igot.plt      0x0000000020000a7c        0x0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/crtbegin.o
+
+.bss            0x0000000020000a7c      0x4c0 load address 0x000000000000cdd8
+                0x0000000020000a7c                . = ALIGN (0x4)
+                0x0000000020000a7c                __bss_start__ = .
+ *(.bss*)
+ .bss           0x0000000020000a7c       0x1c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/crtbegin.o
+ .bss.g_u32comRbytes
+                0x0000000020000a98        0x4 main.o
+                0x0000000020000a98                g_u32comRbytes
+ .bss.g_u32comRhead
+                0x0000000020000a9c        0x4 main.o
+                0x0000000020000a9c                g_u32comRhead
+ .bss.g_u32comRtail
+                0x0000000020000aa0        0x4 main.o
+                0x0000000020000aa0                g_u32comRtail
+ .bss.g_u8RecData
+                0x0000000020000aa4      0x400 main.o
+                0x0000000020000aa4                g_u8RecData
+ .bss.uart3_rx_data_index
+                0x0000000020000ea4        0x1 main.o
+                0x0000000020000ea4                uart3_rx_data_index
+ *fill*         0x0000000020000ea5        0x3 
+ .bss.uart3_rx_packet
+                0x0000000020000ea8       0x44 main.o
+                0x0000000020000ea8                uart3_rx_packet
+ .bss.uart3_rx_state
+                0x0000000020000eec        0x1 main.o
+                0x0000000020000eec                uart3_rx_state
+ *fill*         0x0000000020000eed        0x3 
+ .bss.__lock___atexit_recursive_mutex
+                0x0000000020000ef0        0x1 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lock.o)
+                0x0000000020000ef0                __lock___atexit_recursive_mutex
+ *fill*         0x0000000020000ef1        0x3 
+ .bss.__lock___malloc_recursive_mutex
+                0x0000000020000ef4        0x1 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lock.o)
+                0x0000000020000ef4                __lock___malloc_recursive_mutex
+ *fill*         0x0000000020000ef5        0x3 
+ .bss.__lock___sfp_recursive_mutex
+                0x0000000020000ef8        0x1 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lock.o)
+                0x0000000020000ef8                __lock___sfp_recursive_mutex
+ *fill*         0x0000000020000ef9        0x3 
+ .bss.__lock___sinit_recursive_mutex
+                0x0000000020000efc        0x1 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lock.o)
+                0x0000000020000efc                __lock___sinit_recursive_mutex
+ *fill*         0x0000000020000efd        0x3 
+ .bss.__malloc_current_mallinfo
+                0x0000000020000f00       0x28 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x0000000020000f00                __malloc_current_mallinfo
+ .bss.__malloc_max_sbrked_mem
+                0x0000000020000f28        0x4 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x0000000020000f28                __malloc_max_sbrked_mem
+ .bss.__malloc_max_total_mem
+                0x0000000020000f2c        0x4 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x0000000020000f2c                __malloc_max_total_mem
+ .bss.__malloc_top_pad
+                0x0000000020000f30        0x4 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x0000000020000f30                __malloc_top_pad
+ .bss.errno     0x0000000020000f34        0x4 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+                0x0000000020000f34                errno
+ .bss.heap_end.0
+                0x0000000020000f38        0x4 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(sbrk.o)
+ *(COMMON)
+                0x0000000020000f3c                . = ALIGN (0x4)
+                0x0000000020000f3c                __bss_end__ = .
+
+.heap           0x0000000020000f40      0x100
+                0x0000000020000f40                __HeapBase = .
+                0x0000000020000f40                __end__ = .
+                0x0000000020000f40                end = __end__
+ *(.heap*)
+ .heap          0x0000000020000f40      0x100 /tmp/ccMdOVS5.o
+                0x0000000020001040                __HeapLimit = .
+
+.stack_dummy    0x0000000020000f40      0x400
+ *(.stack*)
+ .stack         0x0000000020000f40      0x400 /tmp/ccMdOVS5.o
+                0x0000000020002000                __StackTop = (ORIGIN (RAM) + LENGTH (RAM))
+                0x0000000020001c00                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x0000000020002000                PROVIDE (__stack = __StackTop)
+                0x0000000000000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+OUTPUT(output.elf elf32-littlearm)
+LOAD linker stubs
+
+.ARM.attributes
+                0x0000000000000000       0x2d
+ .ARM.attributes
+                0x0000000000000000       0x1c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/crti.o
+ .ARM.attributes
+                0x000000000000001c       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/crtbegin.o
+ .ARM.attributes
+                0x0000000000000046       0x1a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/crt0.o
+ .ARM.attributes
+                0x0000000000000060       0x2c main.o
+ .ARM.attributes
+                0x000000000000008c       0x2c ../Library/Device/Nuvoton/NUC131/Source/system_NUC131.o
+ .ARM.attributes
+                0x00000000000000b8       0x1b /tmp/ccMdOVS5.o
+ .ARM.attributes
+                0x00000000000000d3       0x2c ../Library/StdDriver/src/clk.o
+ .ARM.attributes
+                0x00000000000000ff       0x2c ../Library/StdDriver/src/uart.o
+ .ARM.attributes
+                0x000000000000012b       0x2c ../Library/StdDriver/src/sys.o
+ .ARM.attributes
+                0x0000000000000157       0x2c ../Library/StdDriver/src/gpio.o
+ .ARM.attributes
+                0x0000000000000183       0x2c ../Library/StdDriver/src/retarget.o
+ .ARM.attributes
+                0x00000000000001af       0x1c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x00000000000001cb       0x1c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000000000001e7       0x1c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000000000000203       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x000000000000022d       0x30 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000000000000025d       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000287       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000000000002b1       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000000002db       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-printf.o)
+ .ARM.attributes
+                0x0000000000000305       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfprintf.o)
+ .ARM.attributes
+                0x000000000000032f       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-wsetup.o)
+ .ARM.attributes
+                0x0000000000000359       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x0000000000000383       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000000000003ad       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+ .ARM.attributes
+                0x00000000000003d7       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x0000000000000401       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x000000000000042b       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000000000000455       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x000000000000047f       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x00000000000004a9       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-localeconv.o)
+ .ARM.attributes
+                0x00000000000004d3       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lock.o)
+ .ARM.attributes
+                0x00000000000004fd       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-makebuf.o)
+ .ARM.attributes
+                0x0000000000000527       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x0000000000000551       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr-stub.o)
+ .ARM.attributes
+                0x000000000000057b       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000000000005a5       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+ .ARM.attributes
+                0x00000000000005cf       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-s_frexp.o)
+ .ARM.attributes
+                0x00000000000005f9       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x0000000000000623       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x000000000000064d       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen-stub.o)
+ .ARM.attributes
+                0x0000000000000677       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-strncpy.o)
+ .ARM.attributes
+                0x00000000000006a1       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfiprintf.o)
+ .ARM.attributes
+                0x00000000000006cb       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .ARM.attributes
+                0x00000000000006f5       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x000000000000071f       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-assert.o)
+ .ARM.attributes
+                0x0000000000000749       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+ .ARM.attributes
+                0x0000000000000773       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .ARM.attributes
+                0x000000000000079d       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .ARM.attributes
+                0x00000000000007c7       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fiprintf.o)
+ .ARM.attributes
+                0x00000000000007f1       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fputwc.o)
+ .ARM.attributes
+                0x000000000000081b       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fstatr.o)
+ .ARM.attributes
+                0x0000000000000845       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o)
+ .ARM.attributes
+                0x000000000000086f       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-isattyr.o)
+ .ARM.attributes
+                0x0000000000000899       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+ .ARM.attributes
+                0x00000000000008c3       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x00000000000008ed       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mbtowc_r.o)
+ .ARM.attributes
+                0x0000000000000917       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x0000000000000941       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+ .ARM.attributes
+                0x000000000000096b       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+ .ARM.attributes
+                0x0000000000000995       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .ARM.attributes
+                0x00000000000009bf       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-wbuf.o)
+ .ARM.attributes
+                0x00000000000009e9       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-wcrtomb.o)
+ .ARM.attributes
+                0x0000000000000a13       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-wctomb_r.o)
+ .ARM.attributes
+                0x0000000000000a3d       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-abort.o)
+ .ARM.attributes
+                0x0000000000000a67       0x30 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-ctype_.o)
+ .ARM.attributes
+                0x0000000000000a97       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-signal.o)
+ .ARM.attributes
+                0x0000000000000ac1       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-signalr.o)
+ .ARM.attributes
+                0x0000000000000aeb       0x1c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x0000000000000b07       0x1c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x0000000000000b23       0x1c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x0000000000000b3f       0x1c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_arm_unorddf2.o)
+ .ARM.attributes
+                0x0000000000000b5b       0x1c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x0000000000000b77       0x1c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x0000000000000b93       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x0000000000000bbd       0x1c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_clzdi2.o)
+ .ARM.attributes
+                0x0000000000000bd9       0x1c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_clzsi2.o)
+ .ARM.attributes
+                0x0000000000000bf5       0x30 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/crtend.o
+ .ARM.attributes
+                0x0000000000000c25       0x1c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/crtn.o
+ .ARM.attributes
+                0x0000000000000c41       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(close.o)
+ .ARM.attributes
+                0x0000000000000c6b       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(fstat.o)
+ .ARM.attributes
+                0x0000000000000c95       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(getpid.o)
+ .ARM.attributes
+                0x0000000000000cbf       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(isatty.o)
+ .ARM.attributes
+                0x0000000000000ce9       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(kill.o)
+ .ARM.attributes
+                0x0000000000000d13       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(lseek.o)
+ .ARM.attributes
+                0x0000000000000d3d       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x0000000000000d67       0x2a /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(_exit.o)
+
+.comment        0x0000000000000000       0x80
+ .comment       0x0000000000000000       0x4d main.o
+                                         0x4e (size before relaxing)
+ .comment       0x000000000000004d       0x33 ../Library/Device/Nuvoton/NUC131/Source/system_NUC131.o
+                                         0x34 (size before relaxing)
+ .comment       0x0000000000000080       0x34 ../Library/StdDriver/src/clk.o
+ .comment       0x0000000000000080       0x34 ../Library/StdDriver/src/uart.o
+ .comment       0x0000000000000080       0x34 ../Library/StdDriver/src/sys.o
+ .comment       0x0000000000000080       0x34 ../Library/StdDriver/src/gpio.o
+ .comment       0x0000000000000080       0x34 ../Library/StdDriver/src/retarget.o
+
+.debug_frame    0x0000000000000000     0x1b04
+ .debug_frame   0x0000000000000000       0x20 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000000000000020       0x20 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_divsi3.o)
+ .debug_frame   0x0000000000000040       0x28 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000068       0x34 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-init.o)
+ .debug_frame   0x000000000000009c       0x38 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00000000000000d4       0x48 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .debug_frame   0x000000000000011c       0x74 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-printf.o)
+ .debug_frame   0x0000000000000190       0xb4 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfprintf.o)
+ .debug_frame   0x0000000000000244       0x40 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-wsetup.o)
+ .debug_frame   0x0000000000000284       0x68 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000000000002ec       0x2c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-atexit.o)
+ .debug_frame   0x0000000000000318       0xc0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+ .debug_frame   0x00000000000003d8       0xb0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .debug_frame   0x0000000000000488      0x1b8 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .debug_frame   0x0000000000000640       0x34 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fini.o)
+ .debug_frame   0x0000000000000674       0x70 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .debug_frame   0x00000000000006e4       0x68 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .debug_frame   0x000000000000074c       0x40 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-localeconv.o)
+ .debug_frame   0x000000000000078c       0xb0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lock.o)
+ .debug_frame   0x000000000000083c       0x98 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-makebuf.o)
+ .debug_frame   0x00000000000008d4       0x84 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .debug_frame   0x0000000000000958       0x44 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr-stub.o)
+ .debug_frame   0x000000000000099c       0x48 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .debug_frame   0x00000000000009e4      0x304 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+ .debug_frame   0x0000000000000ce8       0x34 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-s_frexp.o)
+ .debug_frame   0x0000000000000d1c       0x3c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000000000000d58       0xa0 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .debug_frame   0x0000000000000df8       0x20 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen-stub.o)
+ .debug_frame   0x0000000000000e18       0x40 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-strncpy.o)
+ .debug_frame   0x0000000000000e58       0xf8 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-vfiprintf.o)
+ .debug_frame   0x0000000000000f50       0x34 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .debug_frame   0x0000000000000f84       0x3c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-__atexit.o)
+ .debug_frame   0x0000000000000fc0       0x40 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-assert.o)
+ .debug_frame   0x0000000000001000       0x34 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+ .debug_frame   0x0000000000001034       0x34 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .debug_frame   0x0000000000001068       0x5c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .debug_frame   0x00000000000010c4       0x6c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fiprintf.o)
+ .debug_frame   0x0000000000001130       0xbc /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fputwc.o)
+ .debug_frame   0x00000000000011ec       0x34 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fstatr.o)
+ .debug_frame   0x0000000000001220       0x70 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o)
+ .debug_frame   0x0000000000001290       0x34 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-isattyr.o)
+ .debug_frame   0x00000000000012c4       0x60 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-locale.o)
+ .debug_frame   0x0000000000001324       0x34 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .debug_frame   0x0000000000001358       0x48 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-mbtowc_r.o)
+ .debug_frame   0x00000000000013a0       0x34 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .debug_frame   0x00000000000013d4       0x34 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+ .debug_frame   0x0000000000001408       0x70 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+ .debug_frame   0x0000000000001478       0x5c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .debug_frame   0x00000000000014d4       0x4c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-wbuf.o)
+ .debug_frame   0x0000000000001520       0x64 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-wcrtomb.o)
+ .debug_frame   0x0000000000001584       0x3c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-wctomb_r.o)
+ .debug_frame   0x00000000000015c0       0x28 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-abort.o)
+ .debug_frame   0x00000000000015e8      0x15c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-signal.o)
+ .debug_frame   0x0000000000001744       0x50 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libc.a(lib_a-signalr.o)
+ .debug_frame   0x0000000000001794       0xac /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x0000000000001840       0x50 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x0000000000001890       0xc4 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_arm_cmpdf2.o)
+ .debug_frame   0x0000000000001954       0x20 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_arm_unorddf2.o)
+ .debug_frame   0x0000000000001974       0x24 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_arm_fixdfsi.o)
+ .debug_frame   0x0000000000001998       0x2c /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00000000000019c4       0x40 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x0000000000001a04       0x20 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(close.o)
+ .debug_frame   0x0000000000001a24       0x20 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(fstat.o)
+ .debug_frame   0x0000000000001a44       0x20 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(getpid.o)
+ .debug_frame   0x0000000000001a64       0x20 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(isatty.o)
+ .debug_frame   0x0000000000001a84       0x20 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(kill.o)
+ .debug_frame   0x0000000000001aa4       0x20 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(lseek.o)
+ .debug_frame   0x0000000000001ac4       0x20 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(sbrk.o)
+ .debug_frame   0x0000000000001ae4       0x20 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(_exit.o)
+
+.stab           0x0000000000000000       0x9c
+ .stab          0x0000000000000000       0x24 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(close.o)
+ .stab          0x0000000000000024       0x18 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(fstat.o)
+                                         0x24 (size before relaxing)
+ .stab          0x000000000000003c       0x18 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(getpid.o)
+                                         0x24 (size before relaxing)
+ .stab          0x0000000000000054       0x18 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(isatty.o)
+                                         0x24 (size before relaxing)
+ .stab          0x000000000000006c       0x18 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(kill.o)
+                                         0x24 (size before relaxing)
+ .stab          0x0000000000000084       0x18 /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(lseek.o)
+                                         0x24 (size before relaxing)
+
+.stabstr        0x0000000000000000      0x14f
+ .stabstr       0x0000000000000000      0x14f /home/charles/Projects/toolchains/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/libnosys.a(close.o)
