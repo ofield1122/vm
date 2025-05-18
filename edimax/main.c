@@ -15,6 +15,7 @@
 #define PLL_CLOCK   50000000
 
 #define RXBUFSIZE   1024
+//test
 
 /*---------------------------------------------------------------------------------------------------------*/
 /* Global variables                                                                                        */
@@ -462,7 +463,7 @@ int32_t main(void)
 
     printf("\n\nCPU @ %luHz\n", SystemCoreClock);
 
-    printf("\n\nUART Sample Program\n");
+    printf("\n\nch UART Sample Program\n");
 
     /* UART sample function */
     UART_FunctionTest();
